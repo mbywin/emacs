@@ -25,6 +25,7 @@
 	;; --- Themes ---
 	monokai-theme
 	;; solarized-theme
+        popwin
 	) "Default packages")
 
 (setq package-selected-packages maioboyong/packages)
